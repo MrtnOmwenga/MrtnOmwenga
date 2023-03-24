@@ -1,5 +1,7 @@
-**<h2 style="text-align: center;"> Hi there 👋. I'm Martin Omwenga </h2>**
-<h3 style="text-align: center;"> Full-Stack Developer | Computer Software Engineer. </h3>
+![Martin Omwenga](fotor_2023-3-24_11_42_27.jpg)
+
+**<h2 align="center"> Hi there 👋. I'm Martin Omwenga </h2>**
+<h3 align="center"> Full-Stack Developer | Computer Software Engineer. </h3>
 
 Welcome to my portfolio, I'm a student software engineer with a strong interest in network engineering, DevOps, Python, C, and JavaScript. My goal is to become a full stack developer by end of 2023 and to contribute my skills to a team of developers that shares my passion for creating high-quality, efficient, and user-friendly applications.
 
