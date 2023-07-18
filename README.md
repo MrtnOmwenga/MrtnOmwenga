@@ -15,6 +15,8 @@ Welcome to my portfolio, I'm a student software engineer with a strong interest 
 - Git
 - Agile Methodologies
 - React
+- MySQL
+- MongoDB
 
 ### Projects
 [ Loading... ]
