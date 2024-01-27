@@ -17,6 +17,7 @@ Welcome to my portfolio, I'm a student software engineer with a strong interest 
 - React
 - MySQL
 - MongoDB
+- AWS Cloud Services. (Cloud Practitioner and Solutions Architect)
 
 ### Projects
 
