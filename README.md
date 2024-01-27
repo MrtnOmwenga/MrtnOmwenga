@@ -19,7 +19,29 @@ Welcome to my portfolio, I'm a student software engineer with a strong interest 
 - MongoDB
 
 ### Projects
-[ Loading... ]
+
+[GhostChat.](http://64.226.110.67/)
+
+GhostChat is an innovative anonymous messaging platform designed to prioritize user privacy and secure communication. My significant contributions to this project include:
+
+- Implementation of end-to-end encryption to ensure the confidentiality and security of user messages.
+- Development of a real-time messaging system using React for the front end, providing users with a dynamic and responsive experience.
+- Utilization of Node.js and Express for the backend to handle the server-side logic and facilitate seamless communication.
+- Successful deployment of GhostChat on a Digital Ocean droplet, involving server configuration, Nginx setup as a proxy, and implementation of security measures.
+- Collaboration with the team to ensure a smooth user experience and address any challenges during the development and deployment phases.
+
+[HubEducation.](http://134.122.101.85/)
+
+EduHub is a comprehensive education-focused platform aimed at enhancing collaboration between students and instructors. As a leader in the development efforts, my contributions encompassed:
+
+- Implementation of features such as PDF material handling, allowing instructors to publish educational materials and students to access them efficiently.
+- Integration of user authentication mechanisms to ensure secure access to the platform's features, enhancing data privacy.
+- Backend development using Django and Express, providing a robust foundation for handling various educational functionalities.
+- Hosting EduHub on a Digital Ocean droplet, with Nginx configured as a proxy to optimize server communication.
+- Collaboration with the team to define and implement features that cater to the specific needs of the educational community, ensuring a user-friendly and functional platform.
+
+These projects collectively showcase my proficiency in full-stack development, emphasizing not only the technical aspects but also the successful deployment and optimization of user experiences in real-world applications.
+
 <!--
 #### [Project 1: Network Monitoring Tool] ... Loading
 Developed a Python-based network monitoring tool using the Scapy library
