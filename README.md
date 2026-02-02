@@ -5,18 +5,24 @@
 
 Welcome to my portfolio, I'm a student software engineer with a strong interest in network engineering, DevOps, Python, C, and JavaScript. My goal is to become a full stack developer by end of 2023 and to contribute my skills to a team of developers that shares my passion for creating high-quality, efficient, and user-friendly applications.
 
-### Technologies and Tools
+## Technologies and Tools
 
 **Programming Languages**: TypeScript (Proficient), JavaScript, Python, C#, Go, Solidity.
+
 **Backend Development & APIs**: Node.js, Express, NestJS, Python (Django, Flask), GraphQL, RESTful API Design & Development, 3rd-Party API Integration.
+
 **Databases & Optimization**: PostgreSQL, MySQL, MongoDB, Query Optimization, Indexing.
+
 **Cloud, DevOps & Orchestration**: DigitalOcean, AWS (EC2, S3, ECS, Lambda), Azure, Kubernetes (K8s), Docker, CI/CD (GitHub Actions), Infrastructure as Code (Terraform).
+
 **Frontend Development**: React, React Native, Performance Optimization, Component Architecture
+
 **Blockchain & Web3**: Ethereum, Smart Contracts, DeFi, Security Auditing
+
 **Specialties**: System Architecture, Agile Methodologies, Technical Training & Mentorship
 
   
-### Contact
+## Contact
 - Email: [Martin Omwenga](omwengamartin@outlook.com) or [Martin Omwenga](martin36449@gmail.com)
 - Twitter: MrtnOmwenga
 <!--
