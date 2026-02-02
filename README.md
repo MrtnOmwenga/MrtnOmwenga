@@ -24,7 +24,7 @@ Welcome to my portfolio, I'm a student software engineer with a strong interest 
   
 ## Contact
 - Email: [Martin Omwenga](omwengamartin@outlook.com) or [Martin Omwenga](martin36449@gmail.com)
-- Twitter: MrtnOmwenga
+
 <!--
 **MrtnOmwenga/MrtnOmwenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
