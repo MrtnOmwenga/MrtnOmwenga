@@ -21,7 +21,7 @@ Fullstack & platform engineer in Nairobi (GMT+3). I build backend systems and th
 | Project | What it is |
 |---|---|
 | [pair-bridge](https://github.com/MrtnOmwenga/pair-bridge) | Two-way file sharing between a Linux laptop and an Android tablet: FastAPI + FUSE on the laptop, a native Android DocumentsProvider on the tablet |
-| [GhostChat](https://github.com/MrtnOmwenga/GhostChat) | Anonymous real-time chat: React, Express, Socket.IO, Redis caching, JWT auth, Jest-tested API |
+| [GhostChat](https://github.com/MrtnOmwenga/GhostChat) | Anonymous real-time chat: React, Express, Socket.IO, Redis-backed presence, JWT auth, Jest-tested API |
 | [incident-tracking](https://github.com/MrtnOmwenga/incident-tracking) | Incident tracker with a Go backend, PostgreSQL migrations, Docker Compose and a Jenkins pipeline |
 | [TypeScript-REST-API](https://github.com/MrtnOmwenga/TypeScript-REST-API) | Typed REST endpoint with custom rate limiting, Swagger docs, structured logging and Jest tests |
 | [RBAC-API](https://github.com/MrtnOmwenga/RBAC-API) | Role-based access control for a TypeScript/Express API with JWT auth |
