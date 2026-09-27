@@ -24,6 +24,6 @@ Fullstack & platform engineer in Nairobi (GMT+3). I build backend systems and th
 | [pair-bridge](https://github.com/MrtnOmwenga/pair-bridge) | Two-way file sharing between a Linux laptop and an Android tablet: FastAPI + FUSE on the laptop, a native Android DocumentsProvider on the tablet |
 | [incident-tracking](https://github.com/MrtnOmwenga/incident-tracking) | Incident tracker with a Go backend, PostgreSQL migrations, Docker Compose and a Jenkins pipeline |
 | [TypeScript-REST-API](https://github.com/MrtnOmwenga/TypeScript-REST-API) | Typed REST API with request validation, Swagger docs and Jest tests |
-| [RBAC-API](https://github.com/MrtnOmwenga/RBAC-API) | Multi-tenant access control: policy as data, PostgreSQL row-level security, rotating refresh tokens, hash-chained audit log. A generated 409-case authorization matrix, 100% mutation score, k6 budget in CI. NestJS, PostgreSQL, Testcontainers |
+| [RBAC-API](https://github.com/MrtnOmwenga/RBAC-API) | Multi-tenant access control: policy as data, PostgreSQL row-level security, document sharing, clearance-classified words, hash-chained audit log, and *Redacted*, a live demo where words black out while you type (Yjs collaboration re-authorized on every permission change). 600+ tests incl. a generated authorization matrix and 100% mutation score. NestJS, PostgreSQL, Testcontainers, Playwright |
 
 **Contact:** omwenga.mrtn@gmail.com · [LinkedIn](https://www.linkedin.com/in/omwenga-martin)
