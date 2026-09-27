@@ -7,7 +7,7 @@ Fullstack & platform engineer in Nairobi (GMT+3). I build backend systems and th
 - **Backend:** Node.js / TypeScript (NestJS, Express), REST & GraphQL APIs, Kafka and BullMQ workers, PostgreSQL & MongoDB
 - **Platform:** Kubernetes, Terraform, Docker, GitHub Actions CI/CD, AWS (Solutions Architect – Associate), DigitalOcean, secrets management (Infisical)
 - **Integrations & AI:** two-way ERP sync (Sage), RAG pipelines and agent loops on OpenAI embeddings
-- **Quality:** Jest unit & e2e suites, Playwright E2E, Sentry and Grafana for observability
+- **Quality & security:** Jest unit & e2e suites, Playwright E2E with parallel, isolated workers; Sentry and Grafana for observability; applied cryptography (end-to-end encryption, signatures, Merkle-tree logs) in GhostChat
 
 **Recent work (private client code, public write-ups coming)**
 
@@ -20,10 +20,10 @@ Fullstack & platform engineer in Nairobi (GMT+3). I build backend systems and th
 
 | Project | What it is |
 |---|---|
+| [GhostChat](https://github.com/MrtnOmwenga/GhostChat) | End-to-end encrypted chat: messages and files encrypted in the browser (libsodium), signed hash-chained history the server can't alter unnoticed, and a key transparency log with Merkle proofs. React, Express, Socket.IO, MongoDB, Redis; Jest + Playwright |
 | [pair-bridge](https://github.com/MrtnOmwenga/pair-bridge) | Two-way file sharing between a Linux laptop and an Android tablet: FastAPI + FUSE on the laptop, a native Android DocumentsProvider on the tablet |
-| [GhostChat](https://github.com/MrtnOmwenga/GhostChat) | Real-time chat with disposable accounts: React, Express, Socket.IO, MongoDB, Redis, cookie sessions, Jest + Playwright tests |
 | [incident-tracking](https://github.com/MrtnOmwenga/incident-tracking) | Incident tracker with a Go backend, PostgreSQL migrations, Docker Compose and a Jenkins pipeline |
-| [TypeScript-REST-API](https://github.com/MrtnOmwenga/TypeScript-REST-API) | Typed REST endpoint with custom rate limiting, Swagger docs, structured logging and Jest tests |
+| [TypeScript-REST-API](https://github.com/MrtnOmwenga/TypeScript-REST-API) | Typed REST API with request validation, Swagger docs and Jest tests |
 | [RBAC-API](https://github.com/MrtnOmwenga/RBAC-API) | Role-based access control for a TypeScript/Express API with JWT auth |
 
 **Contact:** omwenga.mrtn@gmail.com · [LinkedIn](https://www.linkedin.com/in/omwenga-martin)
