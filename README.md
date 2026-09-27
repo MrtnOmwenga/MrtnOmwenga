@@ -1,41 +1,29 @@
-![Martin Omwenga](fotor_2023-3-24_11_42_27.jpg)
+### Hi, I'm Martin 👋
 
-**<h2 align="center"> Hi there 👋. I'm Martin Omwenga </h2>**
-<h3 align="center"> Full-Stack Developer | Computer Software Engineer. </h3>
+Fullstack & platform engineer in Nairobi (GMT+3). I build backend systems and the infrastructure that ships them, currently as tech lead at a small company delivering platforms for European clients.
 
-Welcome to my portfolio, I'm a student software engineer with a strong interest in network engineering, DevOps, Python, C, and JavaScript. My goal is to become a full stack developer by end of 2023 and to contribute my skills to a team of developers that shares my passion for creating high-quality, efficient, and user-friendly applications.
+**What I work on**
 
-## Technologies and Tools
+- **Backend:** Node.js / TypeScript (NestJS, Express), REST & GraphQL APIs, Kafka and BullMQ workers, PostgreSQL & MongoDB
+- **Platform:** Kubernetes, Terraform, Docker, GitHub Actions CI/CD, AWS (Solutions Architect – Associate), DigitalOcean, secrets management (Infisical)
+- **Integrations & AI:** two-way ERP sync (Sage), RAG pipelines and agent loops on OpenAI embeddings
+- **Quality:** Jest unit & e2e suites, Playwright E2E, Sentry and Grafana for observability
 
-**Programming Languages**: TypeScript (Proficient), JavaScript, Python, C#, Go, Solidity.
+**Recent work (private client code, public write-ups coming)**
 
-**Backend Development & APIs**: Node.js, Express, NestJS, Python (Django, Flask), GraphQL, RESTful API Design & Development, 3rd-Party API Integration.
+- Per-PR preview environments: every backend pull request gets its own Kubernetes namespace and URL, torn down when the PR closes
+- Two-way batch sync between a B2B ordering platform and a Sage ERP, with retries, status logging and freshness alerts
+- Node.js/Kafka microservices handling 10,000+ requests per minute, with schema design for scale
+- A production AI assistant: agent loop with tool use, retrieval, and queued model calls, delivered as a Telegram bot
 
-**Databases & Optimization**: PostgreSQL, MySQL, MongoDB, Query Optimization, Indexing.
+**Selected public projects**
 
-**Cloud, DevOps & Orchestration**: DigitalOcean, AWS (EC2, S3, ECS, Lambda), Azure, Kubernetes (K8s), Docker, CI/CD (GitHub Actions), Infrastructure as Code (Terraform).
+| Project | What it is |
+|---|---|
+| [pair-bridge](https://github.com/MrtnOmwenga/pair-bridge) | Two-way file sharing between a Linux laptop and an Android tablet: FastAPI + FUSE on the laptop, a native Android DocumentsProvider on the tablet |
+| [GhostChat](https://github.com/MrtnOmwenga/GhostChat) | Anonymous real-time chat: React, Express, Socket.IO, Redis caching, JWT auth, Jest-tested API |
+| [incident-tracking](https://github.com/MrtnOmwenga/incident-tracking) | Incident tracker with a Go backend, PostgreSQL migrations, Docker Compose and a Jenkins pipeline |
+| [TypeScript-REST-API](https://github.com/MrtnOmwenga/TypeScript-REST-API) | Typed REST endpoint with custom rate limiting, Swagger docs, structured logging and Jest tests |
+| [RBAC-API](https://github.com/MrtnOmwenga/RBAC-API) | Role-based access control for a TypeScript/Express API with JWT auth |
 
-**Frontend Development**: React, React Native, Performance Optimization, Component Architecture
-
-**Blockchain & Web3**: Ethereum, Smart Contracts, DeFi, Security Auditing
-
-**Specialties**: System Architecture, Agile Methodologies, Technical Training & Mentorship
-
-  
-## Contact
-- Email: [Martin Omwenga](omwengamartin@outlook.com) or [Martin Omwenga](martin36449@gmail.com)
-
-<!--
-**MrtnOmwenga/MrtnOmwenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact:** omwenga.mrtn@gmail.com · [LinkedIn](https://www.linkedin.com/in/omwenga-martin)
